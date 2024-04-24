@@ -1,43 +1,41 @@
-# estudos
 <style>
-    h1 {
+h1 {
         background-color: #960101;
         color: white;
-        padding: 20px;
+        padding: 5px;
         text-align: center;
-        text-shadow: 2px 2px 0px black;
+        text-shadow: 5px 5px 0px black;
     }
     h2 {
         background-image: linear-gradient(to right, #A63126 , transparent );
-        margin: 0px;
-        text-indent: 10px;
+        margin: 5px;
+        text-indent: 5px;
         font-weight: bolder;
         font-size: xx-large;
         text-align: center;
     }
     p {
-        text-indent: 30px;
+        text-indent: 5px;
         font-size: larger;
         font-weight: bolder;
-        margin: 15px 18px;
-        padding: 0px;
+        margin: 5px 5px;
+        padding: 5px;
         text-align: justify;
-        line-height: 1.5em;
+        line-height: 1em;
     }
     a {
         background-color: #960101;
         text-decoration: none;
         color: white;
         font-weight: bold;
-        margin-right: 10px;
+        margin-right: 5px;
         border-radius: 5px;
         padding: 5px;
-        box-shadow:2px 2px 2px black;
+        box-shadow:3px 3px 0px black;
     }
     a:hover {
         background-color: #A63126;
-        box-shadow: inset 2px 2px 2px black;
-        text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.651);
+        box-shadow: inset 3px 3px 0px black;
     }
 </style>
  <h1>Curso de HTML5 e CSS3 do CursoemVideo</h1>
