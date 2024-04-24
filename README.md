@@ -11,7 +11,10 @@
         background-color: transparent;
         color:transparent;
     }
-h1.titulo {
+    body{
+        background-color:#eee8d9;
+    }
+    h1.titulo {
         background-color: #960101;
         color: white;
         padding: 5px;
@@ -42,7 +45,7 @@ h1.titulo {
         font-weight: bold;
         margin: 5px;
         border-radius: 5px;
-        padding: 5px;
+        padding: 0px;
         box-shadow:3px 3px 0px black;
     }
     a.link:hover {
@@ -56,7 +59,7 @@ h1.titulo {
 
 <h2>Meus Projetos</h2>
 
-<a href="https://arthurrodrigues1.github.io/NailsAnaCirino/" target= _blank>Nails Ana Cirino</a>
+<a href="https://arthurrodrigues1.github.io/NailsAnaCirino/" target= _blank class=link>Nails Ana Cirino</a>
 
 <h2>Exercicios</h2>
 
@@ -83,13 +86,13 @@ h1.titulo {
 
 <h2>Desafios</h2>
 
-<a href="https://arthurrodrigues1.github.io/estudos/desafios/d001/" target= _blank>d001</a>
-<a href="https://arthurrodrigues1.github.io/estudos/desafios/d002/" target= _blank>d002</a>
-<a href="https://arthurrodrigues1.github.io/estudos/desafios/d003/" target= _blank>d003</a>
-<a href="https://arthurrodrigues1.github.io/estudos/desafios/d004/" target= _blank>d004</a>
-<a href="https://arthurrodrigues1.github.io/estudos/desafios/d005/" target= _blank>d005</a>
-<a href="https://arthurrodrigues1.github.io/estudos/desafios/d006/" target= _blank>d006</a>
-<a href="https://arthurrodrigues1.github.io/estudos/desafios/d007/" target= _blank>d007</a>
-<a href="https://arthurrodrigues1.github.io/estudos/desafios/d008/" target= _blank>d008</a>
-<a href="https://arthurrodrigues1.github.io/estudos/desafios/d009/" target= _blank>d009</a>
-<a href="https://arthurrodrigues1.github.io/estudos/desafios/d010/" target= _blank>d010</a>
+<a href="https://arthurrodrigues1.github.io/estudos/desafios/d001/" target= _blank class=link>d001</a>
+<a href="https://arthurrodrigues1.github.io/estudos/desafios/d002/" target= _blank class=link>d002</a>
+<a href="https://arthurrodrigues1.github.io/estudos/desafios/d003/" target= _blank class=link>d003</a>
+<a href="https://arthurrodrigues1.github.io/estudos/desafios/d004/" target= _blank class=link>d004</a>
+<a href="https://arthurrodrigues1.github.io/estudos/desafios/d005/" target= _blank class=link>d005</a>
+<a href="https://arthurrodrigues1.github.io/estudos/desafios/d006/" target= _blank class=link>d006</a>
+<a href="https://arthurrodrigues1.github.io/estudos/desafios/d007/" target= _blank class=link>d007</a>
+<a href="https://arthurrodrigues1.github.io/estudos/desafios/d008/" target= _blank class=link>d008</a>
+<a href="https://arthurrodrigues1.github.io/estudos/desafios/d009/" target= _blank class=link>d009</a>
+<a href="https://arthurrodrigues1.github.io/estudos/desafios/d010/" target= _blank class=link>d010</a>
