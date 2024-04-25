@@ -71,7 +71,7 @@
 <a href="https://arthurrodrigues1.github.io/estudos/exercicios/ex007/" target= _blank class=link>ex007</a>
 <a href="https://arthurrodrigues1.github.io/estudos/exercicios/ex008/" target= _blank class=link>ex008</a>
 <a href="https://arthurrodrigues1.github.io/estudos/exercicios/ex009/" target= _blank class=link>ex009</a>
-<a href="https://arthurrodrigues1.github.io/estudos/exercicios/ex010/" target= _blank class=link>ex010</a>
+<a href="https://arthurrodrigues1.github.io/estudos/exercicios/ex010/noticias/" target= _blank class=link>ex010</a>
 <a href="https://arthurrodrigues1.github.io/estudos/exercicios/ex011/" target= _blank class=link>ex011</a>
 <a href="https://arthurrodrigues1.github.io/estudos/exercicios/ex012/" target= _blank class=link>ex012</a>
 <a href="https://arthurrodrigues1.github.io/estudos/exercicios/ex013/" target= _blank class=link>ex013</a>
