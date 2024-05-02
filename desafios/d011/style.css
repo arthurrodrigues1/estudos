@@ -1,0 +1,113 @@
+@charset "UTF-8";
+
+/*
+background-color: black;
+background-image:url(imagens/wallpaper002.jpg);
+background-position:center center;
+background-repeat:no-repeat;
+background-size:cover;
+background-attachment:fixed;
+*/
+
+/*
+shorthand - background
+color>image>position>repeat>[size]>attachment
+*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: black url(homemaranhahomemdeferro.jpg) center center no-repeat fixed;
+    background-size: cover;
+    min-width: 419px;
+    margin: auto;
+}
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    margin: 0px;
+    padding: 60px;
+    min-width: 419px;
+}
+
+header > h1{
+    min-width: 600px;
+}
+
+#um{
+    font-size: 3em;
+    width: auto;
+    padding: 100px;
+    background-color: white;
+    text-align: left;
+}
+
+#dois{
+    font-size: 3em;
+    width: auto;
+    padding: 0px;
+    background: black url(banner\ miranha.jpg) center center no-repeat fixed;
+    background-size: cover;
+}
+
+#tres{
+    font-size: 3em;
+    width: auto;
+    padding: 100px;
+    background-color: white;
+    text-align: left;
+}
+
+#quatro{
+    font-size: 3em;
+    width: auto;
+    padding: 0px;
+    background: black url(homemaranhahomemdeferro.jpg) center center no-repeat fixed;
+    background-size: cover;
+}
+
+#cinco{
+    font-size: 3em;
+    width: auto;
+    padding: 100px;
+    background-color: white;
+    text-align: left;
+}
+
+#artigoum{
+    width: 600px;
+}
+
+#artigodois{
+    width: 600px;
+    background-color: rgba(0, 0, 0, 0.479);
+    color: white;
+    padding: 100px;
+    margin: 0px 0px 0px 0px;        
+}
+
+#artigotres{
+    width: 600px;
+}
+
+#artigoquatro{
+    width: 600px;
+    background-color: rgba(0, 0, 0, 0.479);
+    color: white;
+    padding: 100px;
+    margin: 0px 0px 0px 0px;
+}
+
+#artigocinco{
+    width: 600px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
