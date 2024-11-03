@@ -7,20 +7,9 @@ header{
     text-align: center;
     padding: 40px;
 }
-div{
-    display: block;
-    margin: auto;
+table{
+    background-color: darkgray;
     width: 400px;
     height: 500px;
-    background-color: gray;
+    margin: auto;
 }
-.container{
-    display: grid;
-    grid-template-columns: repeat(4);
-    grid-template-rows: repeat(6);
-    gap: 10px; 
-  }
-  #display{
-    grid-column: 3;
-    grid-row: 1;
-  }
